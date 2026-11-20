@@ -11,7 +11,7 @@ Downloads are published on the [Releases](../../releases) page:
 - `MuseLink-Windows-x64.exe` for the computer (Windows 10 or 11, 64-bit)
 - `MuseLink-Android.apk` for each device (Android 11 or newer)
 
-No version has been published here yet. The first one will appear on that page.
+The current version is [v0.6.0](../../releases/tag/v0.6.0), a pre-release: it passed its automated builds and tests, but has not yet been tried on a real Android device or through the Windows firewall.
 
 ## What it does
 
